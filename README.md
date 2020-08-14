@@ -1,3 +1,5 @@
+# Deployed at https://boiling-tundra-97257.herokuapp.com/
+
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
